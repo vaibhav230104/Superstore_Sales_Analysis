@@ -9,7 +9,7 @@ An interactive and insightful Power BI dashboard analyzing sales, shipping, and 
 - **Sales and Profit Trends** across regions, categories, and segments  
 - **Shipping Mode Efficiency** and cost implications  
 - **Top & Bottom Performing Products**  
-- 🗺**Geographical Revenue Distribution**  
+- **Geographical Revenue Distribution**  
 - Filtered drill-downs by **Region, State, Category, and Segment**
 
 ---
@@ -27,7 +27,7 @@ An interactive and insightful Power BI dashboard analyzing sales, shipping, and 
 
 ---
 
-## 🛠Tools & Techniques
+## Tools & Techniques
 
 - Power BI Desktop  
 - DAX Measures & Calculated Columns  
